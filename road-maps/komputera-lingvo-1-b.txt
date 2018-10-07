@@ -1,0 +1,292 @@
+=============
+rule of thumb
+=============
+
+functional languages need to have higher kined types (hkt)
+synergy
+whitespace sensitive imperative (wssi)
+whitespace sensitive functional (wssf)
+mobile
+best low-level (ll)
+transpiler
+low-high
+iot
+null-safety
+metaprogramming
+
+;; hkt examples
+scala, haskell, idris, purescript
+
+;; synergy examples:
+scala -> jvm, javascript | c <- scala-native
+nim -> c, c++, objective-c, javascript
+scala-native haskell
+kotlin-native haskell
+
+;; wssi examples:
+python nim | lobster || coffescript
+
+;; wssf examples:
+idris purescript | livescript elm
+
+;; mobile examples:
+scala kotlin | python idris || lux clojure haxe
+
+;; ll examples:
+nim
+
+;; transpiler examples:
+nim idris | purescript || lux haxe
+
+;; low-high means that the language is convenient as dynamically-typed languages are
+;; low-high examples:
+nim | scala kotlin || red julia 
+
+;; iot examples:
+nim python
+
+;; null-safe examples:
+scala | kotlin idris || erlang julia elixir ceylon
+
+;; metaprogramming examples:
+nim | elixir julia lisp red
+
+==/
+
+;; homoiconic languages have a few fatal flows (imho)
+;; difficult to read and understand because of extreme simplicity.
+;; simplicity that is hard despite uniform, minimal and logical syntax.
+;; or maybe because of that.
+;; the living proof that easy and simple are not the same
+;; maybe vulnerable to injection
+;; homoiconic examples:
+any lisp, any rebol, julia
+
+=/
+
+;; VERY IMPORTANT
+;; think very carefully if you are willing to write code in this language
+
+;; i have near perfect list now
+;; it's in near perfect order
+
+========
+the list
+========
+
+;; 19.000 stars
+;; C IMPLEMENTATION
+;; teaches to program
+;; allows changing syntax in a core way.
+;; make rebol syntax in vein of hy
+;; RUNTIME AST
+python
+
+;; 10.000 stars
+;; scala-native
+;; to leverage jvm completly
+;; OBJECT-FUNCTIONAL
+;; ANDROID
+scala
+;;
+;; 23.500 stars
+;; no ats
+;; there is no ir like in nim so llvm and jvm are separate.
+;; no ir that can be fed to different backends
+;; nullability as a speical case
+;; is low-high
+;; llvm, java, javascript backends
+;; android
+kotlin
+;;
+java
+
+;; 5.000 stars
+;; best low-level
+;; multiple gcs and backends
+;; interoperability with c
+;; webassembly
+;; is low-high
+;; ast
+;; will help with c, c++, obj-c, javascript
+;; min, spry
+;; conjuction with haskell
+nim
+
+======
+tier 2
+======
+
+;; optional braces as delimiters.
+;; thankfully not generally used.
+;; conjuction with nim
+;; will keep me liking nim
+;; much better than c, c++, javascript
+;; laziness is awesome
+haskell
+
+======
+tier 3
+======
+
+;; 2.500 stars
+;; null-safe
+;; so many backends
+;; dependent types
+idris
+
+;; readable js
+;; backend friendly
+;; write nim backend
+purescript
+
+=================
+under supervision
+=================
+
+;; 30.000 stars
+;; teaches to program
+;; flagman of ownership/borrowing
+;; null-safe
+;; webassembly
+;; NO METAPROGRAMMING
+rust dyon gluon (1)
+
+============
+practicality
+popularity
+stability 
+check
+============
+
+================
+learn the basics
+================
+
+;; it's a minimal language
+javascript (scala, kotlin, python, nim, idris)
+c++ (nim)
+
+java (kotlin, scala, nim, idris)
+csharp (idris)
+
+c (nim)
+
+========
+research
+========
+
+;; off-side rules
+moonscript
+lua
+
+lobster
+
+livescript
+
+;; it's like go/lang
+;; no abstractions.
+;; and insane amount of boilerplate
+elm
+
+coffeescript
+
+====
+why?
+====
+
+python:
+qtile
+ranger
+renpy
+blender
+
+c++:
+nix nixos guix
+blender
+inkscape
+
+c:
+2bwm
+i3
+systemd
+gtk
+gimp
+coreutils
+rebol
+
+=========
+provizejo
+==========
+
+;; 1.000 stars
+;; ANDROID
+lux
+
+;; 6.500 and 2.000 stars
+;; it's like hy but for ocaml
+;; it's like kotlin but for ocaml
+;; reason-react
+;; react-native
+reason
+;; for good ir like (malfunction).
+;; which is good for idris
+ocaml
+;;
+;; 2.500 stars
+;; so many backends
+;; ast
+;; NULL UNSAFE
+;; will help with java, javascript, c++, python, csharp etc
+haxe
+
+carp
+
+rebol
+
+;; 3.500 stars
+;; HOMOICONIC AND.
+;; SELF-HOSTED
+;; ANDROID
+;; ONE LANGUAGE THAT DOES EVERYTHING
+red
+
+;; 11.000 stars
+;; not cross-platform (anroid, java)
+;; new kind homoiconicity compatible with r/s-expressions
+;; is low-high
+;; compile to c
+julia
+
+;; 400 stars
+mercury
+
+;; host language is not homoiconic.
+;; and that is one of my demands
+clojure
+
+;; 7000 stars | 2000 stars
+;; functional, practical and popular
+;; null-safe
+;; niche language doing its job better than anything else
+erlang lfe (1)
+
+go/golang zygomys
+dart
+typescript
+
+opa
+
+d
+pony
+
+groovy
+xtend
+fantom
+
+racket
+scheme
+
+pixie
+irken
+lfe

@@ -26,7 +26,7 @@ porteus
 ;; provizejo
 ;; =========
 
-;; have openbuild service
+;; have openbuild-like service
 fedora
 opensuse
 

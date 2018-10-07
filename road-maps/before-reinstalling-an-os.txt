@@ -1,4 +1,3 @@
- 
 .bashrc
 .profile
 .bash_profile
