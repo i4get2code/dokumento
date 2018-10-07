@@ -1,0 +1,55 @@
+;; priority
+arch ;; simplicity
+nixos ;; server maintainability
+
+;; priority ii
+void
+slackware ;; simplicity
+
+;; unique
+frugalware ;; simplicity
+gobo
+nutyx
+bedrock ;; semi-rolling
+
+;; arch-based
+antergos
+chakra ;; semi-rolling
+manjaro
+
+;; from ram
+alpine
+tinycore
+porteus
+
+;; =========
+;; provizejo
+;; =========
+
+;; have openbuild-like service
+fedora
+opensuse
+
+;; ppa and stable version
+kubuntu
+ubuntu
+
+;; semi-rolling
+pclinuxos
+
+;; great spin-offs
+qubos ;; fedora
+gecko ;; opensuse
+
+;; gentoo lore
+gentoo
+funtoo
+sabayon
+redcore
+
+;; stable
+centos
+
+;; spin-offs asleep
+korora ;; fedora
+chapeau ;; fedora

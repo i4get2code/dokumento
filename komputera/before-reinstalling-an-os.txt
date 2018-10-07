@@ -1,0 +1,16 @@
+.bashrc
+.profile
+.bash_profile
+
+.emacs
+.emacs.d
+
+.npmrc
+
+# config
+
+vlc
+
+#
+
+.themes

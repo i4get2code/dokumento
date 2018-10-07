@@ -1,0 +1,38 @@
+;; stability unlike full-blown des like gnome, kde, enlightenment etc
+;; toolkits are ok though
+
+;; mature and stable as hell
+;; very customizable
+;; system tray included
+;; it's a superb hybrid of stacking and tiling
+awesome
+
+;; manual tiling
+;; each desktop becomes a system tray
+herbstluft
+
+;; like minimalism
+jwm
+
+;; an adandoned gem
+2bwm
+
+;; testing
+
+qtile
+
+;; provizejo
+
+;;;; need system tray but which one provides it?
+;;;
+;;
+bspwm
+subtle
+i3
+xmonad
+iridium
+dwm
+spectrwm
+stumpwm
+
+;; wayladn
