@@ -5,6 +5,8 @@
 .emacs
 .emacs.d
 
+.Xmodmap
+
 .npmrc
 
 # config
