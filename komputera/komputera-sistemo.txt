@@ -1,30 +1,44 @@
-;; priority
-arch ;; simplicity
-nixos ;; server maintainability
+;; has stable branch
+;; many architectures
+gentoo
 
-;; priority ii
-void
-slackware ;; simplicity
-
-;; unique
-frugalware ;; simplicity
-gobo
-nutyx
-bedrock ;; semi-rolling
-
-;; arch-based
-antergos
-chakra ;; semi-rolling
-manjaro
+;; server maintainability
+nixos 
 
 ;; from ram
 alpine
 tinycore
 porteus
 
+;; unique
+gobo
+
+;; simplicity
+;; for porteus and like
+;; somewhat source-based
+slackware
+
+;; gentoo lore
+funtoo
+sabayon
+redcore
+calculate
+
 ;; =========
 ;; provizejo
 ;; =========
+
+arch ;; simplicity
+void
+
+;;; arch-based
+antergos
+chakra ;; semi-rolling
+manjaro
+
+nutyx
+frugalware ;; simplicity
+bedrock ;; semi-rolling
 
 ;; have openbuild-like service
 fedora
@@ -40,12 +54,6 @@ pclinuxos
 ;; great spin-offs
 qubos ;; fedora
 gecko ;; opensuse
-
-;; gentoo lore
-gentoo
-funtoo
-sabayon
-redcore
 
 ;; stable
 centos
