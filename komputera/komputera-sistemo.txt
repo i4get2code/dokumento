@@ -1,44 +1,53 @@
+arch ;; simplicity
+
+;;; arch-based
+antergos ;; full rolling
+chakra ;; semi-rolling
+;; stable rolling release.
+;; holds updates back until bugs are fixed and everything works
+manjaro
+
+void
+
+;; unique
+;; sever maintainability
+;; expression syntax still
+;; should be updated from time to time
+nixos
+gobo
+bedrock ;; semi-rolling
+
+===========
+provizejo i
+===========
+
+;; ============
+;; provizejo ii
+;; ============
+
+;; from ram
+;; not in sync with disk
+alpine
+tinycore
+
 ;; has stable branch
 ;; many architectures
 gentoo
-
-;; server maintainability
-nixos 
-
-;; from ram
-alpine
-tinycore
-porteus
-
-;; unique
-gobo
-
-;; simplicity
-;; for porteus and like
-;; somewhat source-based
-slackware
-
+;;
 ;; gentoo lore
 funtoo
 sabayon
 redcore
 calculate
 
-;; =========
-;; provizejo
-;; =========
-
-arch ;; simplicity
-void
-
-;;; arch-based
-antergos
-chakra ;; semi-rolling
-manjaro
+;; simplicity
+;; for porteus and like
+;; somewhat source-based
+slackware
+porteus
 
 nutyx
 frugalware ;; simplicity
-bedrock ;; semi-rolling
 
 ;; have openbuild-like service
 fedora
@@ -53,7 +62,7 @@ pclinuxos
 
 ;; great spin-offs
 qubos ;; fedora
-gecko ;; opensuse
+gecko ;; opesunse
 
 ;; stable
 centos
