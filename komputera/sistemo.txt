@@ -17,7 +17,6 @@ nixos
 gobo
 
 ;; simplicity
-;; for porteus and like
 ;; somewhat source-based
 slackware
 porteus
@@ -27,7 +26,7 @@ provizejo
 =========
 
 arch ;; simplicity
-;;
+;; 
 ;; arch-based
 ;;
 antergos ;; full rolling
