@@ -1,32 +1,5 @@
-;; has stable branch
-;; many architectures
-gentoo
-;;
-;; gentoo lore
-funtoo
-sabayon
-redcore
-calculate
-
-;; unique
-;;
-;; sever maintainability
-;; expression syntax still
-;; should be updated from time to time
-nixos
-gobo
-
-;; simplicity
-;; somewhat source-based
-slackware
-porteus
-
-=========
-provizejo
-=========
-
 arch ;; simplicity
-;; 
+void
 ;; arch-based
 ;;
 antergos ;; full rolling
@@ -35,20 +8,69 @@ chakra ;; semi-rolling
 ;; holds updates back until bugs are fixed and everything works
 manjaro
 
-void
-bedrock ;; semi-rolling
+;; simplicity
+;; somewhat source-based
+;; server
+slackware
+
+===========
+provizejo i
+===========
+
+;; 1c
+debian
+centos
+opensuse
+
+;; sever maintainability
+;; expression syntax still
+;; should be updated from time to time
+;; better than debian
+nixos
+guix
 
 ;; from ram
-;; not in sync with disk
+;; server primarily
 alpine
-tinycore
 
+============
+provizejo ii
+============
+
+;; has stable branch
+;; many architectures
+;; for alpine
+gentoo
+;;
+;; gentoo lore
+funtoo
+sabayon
+redcore
+calculate
+
+netbsd
+
+;; unique
+;;
+gobo
+
+;; from ram
+porteus
+tinycore
+fatdog
+
+=============
+provizejo iii
+=============
+
+bedrock ;; semi-rolling
 nutyx
+
 frugalware ;; simplicity
 
 ;; have openbuild-like service
 fedora
-opensuse
+
 
 ;; ppa and stable version
 kubuntu
