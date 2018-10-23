@@ -1,42 +1,3 @@
-arch ;; simplicity
-void
-;; arch-based
-;;
-antergos ;; full rolling
-chakra ;; semi-rolling
-;; stable rolling release.
-;; holds updates back until bugs are fixed and everything works
-manjaro
-
-;; simplicity
-;; somewhat source-based
-;; server
-slackware
-
-===========
-provizejo i
-===========
-
-;; 1c
-debian
-centos
-opensuse
-
-;; sever maintainability
-;; expression syntax still
-;; should be updated from time to time
-;; better than debian
-nixos
-guix
-
-;; from ram
-;; server primarily
-alpine
-
-============
-provizejo ii
-============
-
 ;; has stable branch
 ;; many architectures
 ;; for alpine
@@ -48,29 +9,68 @@ sabayon
 redcore
 calculate
 
+;; simplicity
+;; somewhat source-based
+;; server
+slackware
+
 netbsd
+
+===========
+provizejo i
+===========
+
+;; 1c
+debian
+;;
+;; sever maintainability
+;; expression syntax still
+;; should be updated from time to time
+nixos
+guix
+
+;; from ram
+;; server primarily
+alpine
 
 ;; unique
 ;;
 gobo
 
-;; from ram
+=======
+display
+=======
+
+;; have openbuild-like service
+fedora
+opensuse
+
+============
+provizejo ii
+============
+
+;;from ram
+;;
 porteus
 tinycore
 fatdog
 
-=============
-provizejo iii
-=============
+arch ;; simplicity
+void
+;; arch-based
+;;
+antergos ;; full rolling
+chakra ;; semi-rolling
+;; stable rolling release.
+;; holds updates back until bugs are fixed and everything works
+manjaro
+
+centos
 
 bedrock ;; semi-rolling
 nutyx
 
 frugalware ;; simplicity
-
-;; have openbuild-like service
-fedora
-
 
 ;; ppa and stable version
 kubuntu
