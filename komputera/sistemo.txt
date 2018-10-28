@@ -1,6 +1,5 @@
 ;; has stable branch
 ;; many architectures
-;; for alpine
 gentoo
 ;;
 ;; gentoo lore
@@ -13,16 +12,18 @@ calculate
 ;; somewhat source-based
 ;; server
 slackware
+;; from ram
+porteus
+;; from ram
+fatdog
 
+;; many architectures
 netbsd
 
 ===========
 provizejo i
 ===========
 
-;; 1c
-debian
-;;
 ;; sever maintainability
 ;; expression syntax still
 ;; should be updated from time to time
@@ -31,29 +32,25 @@ guix
 
 ;; from ram
 ;; server primarily
+;; desktop not really
 alpine
 
 ;; unique
-;;
 gobo
-
-=======
-display
-=======
-
-;; have openbuild-like service
-fedora
-opensuse
 
 ============
 provizejo ii
 ============
 
-;;from ram
-;;
-porteus
-tinycore
-fatdog
+;; 1c
+debian
+
+;; have openbuild-like service
+opensuse
+
+=============
+provizejo iii
+=============
 
 arch ;; simplicity
 void
@@ -65,26 +62,26 @@ chakra ;; semi-rolling
 ;; holds updates back until bugs are fixed and everything works
 manjaro
 
+fedora
+;; stable
 centos
 
-bedrock ;; semi-rolling
+;; semi-rolling
+;;
+bedrock
+pclinuxos
+
 nutyx
 
 frugalware ;; simplicity
 
-;; ppa and stable version
+;; ppa and stable branches
 kubuntu
 ubuntu
-
-;; semi-rolling
-pclinuxos
 
 ;; great spin-offs
 qubos ;; fedora
 gecko ;; opesunse
-
-;; stable
-centos
 
 ;; spin-offs asleep
 korora ;; fedora
