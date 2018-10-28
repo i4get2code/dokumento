@@ -1,0 +1,88 @@
+;; has stable branch
+;; many architectures
+gentoo
+;;
+;; gentoo lore
+funtoo
+sabayon
+redcore
+calculate
+
+;; simplicity
+;; somewhat source-based
+;; server
+slackware
+;; from ram
+porteus
+;; from ram
+fatdog
+
+;; many architectures
+netbsd
+
+===========
+provizejo i
+===========
+
+;; sever maintainability
+;; expression syntax still
+;; should be updated from time to time
+nixos
+guix
+
+;; from ram
+;; server primarily
+;; desktop not really
+alpine
+
+;; unique
+gobo
+
+============
+provizejo ii
+============
+
+;; 1c
+debian
+
+;; have openbuild-like service
+opensuse
+
+=============
+provizejo iii
+=============
+
+arch ;; simplicity
+void
+;; arch-based
+;;
+antergos ;; full rolling
+chakra ;; semi-rolling
+;; stable rolling release.
+;; holds updates back until bugs are fixed and everything works
+manjaro
+
+fedora
+;; stable
+centos
+
+;; semi-rolling
+;;
+bedrock
+pclinuxos
+
+nutyx
+
+frugalware ;; simplicity
+
+;; ppa and stable branches
+kubuntu
+ubuntu
+
+;; great spin-offs
+qubos ;; fedora
+gecko ;; opesunse
+
+;; spin-offs asleep
+korora ;; fedora
+chapeau ;; fedora

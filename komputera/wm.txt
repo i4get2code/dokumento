@@ -1,5 +1,8 @@
-;; stability unlike full-blown des like gnome, kde, enlightenment etc
-;; toolkits are ok though
+==================================
+stability unlike full-blown des.
+like gnome, kde, enlightenment etc
+toolkits are ok though
+==================================
 
 ;; mature and stable as hell
 ;; very customizable
@@ -11,17 +14,21 @@ awesome
 ;; each desktop becomes a system tray
 herbstluft
 
-;; like minimalism
-jwm
-
 ;; an adandoned gem
 2bwm
 
-;; testing
+;; like minimalism
+jwm
+
+=======
+testing
+=======
 
 qtile
 
-;; provizejo
+=========
+provizejo
+=========
 
 ;;;; need system tray but which one provides it?
 ;;;
@@ -35,4 +42,4 @@ dwm
 spectrwm
 stumpwm
 
-;; wayladn
+;; wayland
