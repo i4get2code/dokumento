@@ -1,33 +1,43 @@
-; surprisingly more lightweight
-; or just feels like it but it's awesome feeling
-; can turn off borders and titlebars :).
-; the only hope it will stay that way
-; efl toolkit
+;; surprisingly more lightweight
+;; or just feels like it but it's awesome feeling
+;; can turn off borders and titlebars :).
+;; the only hope it will stay that way
+;; efl toolkit
 enlightenment
 
-;; provizejo
+; provizejo
 
-;;; radical changes from release to release. it's not a bad thing!
-;;; it's a bad thing who prefere stability over progress
-;;; cool toolkit
-;
-; cant turn off titlebars :(. dafuq
-; plugin incompatibility
-; pitivi - the only gnome app i need
-; very beautiful but damned titlebars must be optional
-; it's an essential feature
-;
+;;;
+;; radical changes from release to release. it's not a bad thing!
+;; it's a bad thing who prefere stability over progress
+;; cool toolkit
+;;;
+;; cant turn off titlebars :(. dafuq
+;; plugin incompatibility
+;; pitivi - the only gnome app i need
+;; very beautiful but damned titlebars must be optional.
+;; it's an essential feature
+;;
 gnome
-; can turn off borders and titlebars :)
-; snappy borders - must have plugin
-; no titlebar theme - must have theme
-; kdenlive - the only kde app i need
+;; can turn off borders and titlebars :)
+;; snappy borders - must have plugin
+;; no titlebar theme - must have theme
+;; kdenlive - the only kde app i need
 kde
 
-;;; gtk-based :)
-;;; i like a certain subset of c++ more than pure c
-;;; and still like gtk more than qt. dafuq
-;
+;; gtk-based :)
+;; i like a certain subset of c++ more than pure c
+;; and still like gtk more than qt. dafuq
+;;
+;;
 cinnamon
-;
+;;
 mate
+
+;;
+xfce
+
+;;
+razorqt
+;;
+lxqt

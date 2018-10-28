@@ -39,7 +39,7 @@ rust python | wren gravity || nim
 elixir | nim || julia lisp redbol
 
 ;; null-safe examples:
-rust idris erlang elixir | kotlin scala ceylon julia
+rust idris erlang/elixir | lux kotlin scala ceylon julia
 
 ;; mobile examples:
 idris python | kotlin || scala lux clojure haxe
