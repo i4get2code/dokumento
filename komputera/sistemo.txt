@@ -8,21 +8,8 @@ sabayon
 redcore
 calculate
 
-;; simplicity
-;; somewhat source-based
-;; server
-slackware
-;; from ram
-porteus
-;; from ram
-fatdog
-
 ;; many architectures
 netbsd
-
-===========
-provizejo i
-===========
 
 ;; sever maintainability
 ;; expression syntax still
@@ -35,12 +22,12 @@ guix
 ;; desktop not really
 alpine
 
-;; unique
-gobo
-
 ============
 provizejo ii
 ============
+
+;; unique
+gobo
 
 ;; 1c
 debian
@@ -51,6 +38,15 @@ opensuse
 =============
 provizejo iii
 =============
+
+;; simplicity
+;; somewhat source-based
+;; server
+slackware
+;; from ram
+porteus
+;; from ram
+fatdog
 
 arch ;; simplicity
 void
