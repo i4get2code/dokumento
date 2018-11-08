@@ -4,51 +4,46 @@ rule of thumb
 
 synergy
 no gc
-functional with higher kinded types and transpilerable (ft hkt)
 iot
 metaprogramming
 null-safety
 mobile
-whitespace sensitive imperative (wssi)
-whitespace sensitive functional (wssf)
+functional with higher kinded types and transpiler (ft hkt)
 low-high
+homoiconicity
 
  ^
 /=\
 
 ;; synergy examples:
-rust elixir/erlang
-rust <-> micropython <-> c/++
-rust python c/++  <- idris purescript
+rust c/++
+any minimal language targetting it's no-gc host
+anything with elixir/erlang
 ;
-rust == gluon dyon <-> c/++
+dyon, gluon => rust <= ketos, macro-lisp
+chai/script, squirrel => c++
+micropython => c
+
+;; iot examples:
+rust python | nim
 
 ;; no gc examples:
 rust c++ | nim || dlang
 
-;; transpilers examples:
-idris purescript | nim || lux haxe
-
-;; ft hkt examples:
-idris purescript
-
-;; iot examples:
-rust python | wren gravity || nim
-
 ;; metaprogramming examples:
-elixir | nim || julia lisp redbol
+elixir nim julia lisp redbol
 
 ;; null-safe examples:
 rust idris erlang/elixir | lux kotlin scala ceylon julia
 
+;; transpilers examples:
+idris purescript | lux || haxe
+
+;; ft hkt examples:
+idris purescript
+
 ;; mobile examples:
 idris python | kotlin || scala lux clojure haxe
-
-;; wssi examples:
-python lobster moonscript || nim coffescript
-
-;; wssf examples:
-idris purescript | haskell || livescript elm
 
 ;; low-high means that the language is convenient as dynamically-typed languages are
 ;; low-high examples:
@@ -56,29 +51,17 @@ nim kotlin scala red julia
 
 |=|
 
-;; homoiconic languages have a few fatal flows (imho)
-;; difficult to read and understand because of extreme simplicity.
 ;; simplicity that is hard despite uniform, minimal and logical syntax.
-;; or maybe because of that.
-;; the living proof that easy and simple are not the same thing
-;; ast is not meant to be read by a human being
+;; the living proof that simple does not mean easy
 ;; ast by default maybe vulnerable to injection.
 ;; so safe environment is required
-;;
-;; the only usecase for homoiconic languages are
-;; if there is a readable homoiconicity that is run within a very safe environment
-;; or transpilers that have remodifiable syntax
-;;
-;; not appreciated homoiconic examples:
-any lisp, redbol, julia
-;;
-;; appreciated homoiconic examples:
-elixir (safe environment)
+
 lux (transpiler sadly the project is dead)
+lfe (safe environment)
 elisp (can be tolerated since
 it is in a kinda safe environment and
 not really a programming language but extension language
-where homoiconicity not that scary)
+where homoiconicity is not that scary)
 
 \=/
  V
@@ -98,13 +81,24 @@ the list
 ;; flagman of ownership/borrowing
 ;; null-safe
 ;; webassembly
-rust dyon
+rust
 ;;
-;; conjuction with coconut
+ketos marco-lisp
+;;
+;; make lisp out of them
+;;
+dyon
+;;
 gluon
-;;
+
 ;; no gc
 c/++
+;
+;; make lisp out of them
+; 
+caiscript
+;;
+squirrel
 
 ;; 19.000 stars
 ;; teaches to program
@@ -117,17 +111,48 @@ c/++
 ;;
 micro/python cython pypy
 ;;
-;; conjuction with gluon
-coconut
+hy
 
-;; actor concurrency library
-;; one of the few "big" gc languages i like
-;;
-;; one of the if not the only
-;; homoiconic language i like
-elixir
-;;
-erlang
+====================
+tier 2 homoiconicity
+====================
+
+;; host language is not homoiconic.
+;; and that is one of my demands
+clojure
+
+;; 11.000 stars
+;; not cross-platform (anroid, java)
+;; new kind homoiconicity compatible with r/s-expressions
+;; is low-high
+;; compile to c
+julia
+
+;; 3.500 stars
+;; HOMOICONIC AND.
+;; SELF-HOSTED
+;; ANDROID
+;; ONE LANGUAGE THAT DOES EVERYTHING
+red
+;
+rebol
+
+carp
+
+====================
+tier 3 homoiconicity
+====================
+
+;; 1.000 stars
+;; ANDROID
+lux
+
+racket
+scheme
+
+pixie
+irken
+lfe
 
 =====================================================
 tier 2 transpiler functional for safe code generation
@@ -149,7 +174,7 @@ learn the basics
 ================
 
 ;; it's a minimal language
-javascript (python, idris, elixirscript)
+javascript (clojurescript, python/hy, idris)
 
 ;; 23.500 stars
 ;; nullability as a speical case
@@ -158,9 +183,9 @@ kotlin
 ;;
 ;; android.
 ;; consider it c for android
-java (idris)
+java (clojure, idris)
 
-csharp (idris, purescript)
+csharp (clojure, idris, purescript)
 
 ========
 integral
@@ -208,6 +233,23 @@ chai/script
 moonscript
 lua
 
+========
+research
+========
+
+;; actor concurrency library
+;; one of the few "big" gc languages i like
+;;
+;; one of the if not the only
+;; homoiconic language i like
+elixir
+;;
+erlang
+
+lobster
+
+coffeescript
+
 =======================
 under supervision no gc
 =======================
@@ -227,14 +269,6 @@ scala
 ;; min, spry
 ;; because it's a transpiler to c and friends
 nim
-
-========
-research
-========
-
-lobster
-
-coffeescript
 
 ====
 why?
@@ -273,10 +307,6 @@ elm
 
 d/lang
 
-;; 1.000 stars
-;; ANDROID
-lux
-
 ;; 6.500 and 2.000 stars
 ;; it's like hy but for ocaml
 ;; it's like kotlin but for ocaml
@@ -294,30 +324,8 @@ ocaml
 ;; will help with java, javascript, c++, python, csharp etc
 haxe
 
-carp
-
-rebol
-
-;; 3.500 stars
-;; HOMOICONIC AND.
-;; SELF-HOSTED
-;; ANDROID
-;; ONE LANGUAGE THAT DOES EVERYTHING
-red
-
-;; 11.000 stars
-;; not cross-platform (anroid, java)
-;; new kind homoiconicity compatible with r/s-expressions
-;; is low-high
-;; compile to c
-julia
-
 ;; 400 stars
 mercury
-
-;; host language is not homoiconic.
-;; and that is one of my demands
-clojure
 
 ;; 7000 stars | 2000 stars
 ;; functional, practical and popular
@@ -338,9 +346,5 @@ groovy
 xtend
 fantom
 
-racket
-scheme
-
-pixie
-irken
-lfe
+gluon
+coconut

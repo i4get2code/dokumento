@@ -8,12 +8,18 @@ sabayon
 redcore
 calculate
 
-;; many architectures
-netbsd
+;; simplicity
+;; somewhat source-based
+;; server
+slackware
 
 ;; sever maintainability
-;; expression syntax still
+;; expression syntax still.
 ;; should be updated from time to time
+;; however, debians switch to systemd.
+;; shows that debian's configs should be updated too
+;; will replaces all binary based systems.
+;; like arch, deb, rpm
 nixos
 guix
 
@@ -22,9 +28,12 @@ guix
 ;; desktop not really
 alpine
 
-============
-provizejo ii
-============
+;; many architectures
+netbsd
+
+===========
+provizejo i
+===========
 
 ;; unique
 gobo
@@ -35,18 +44,17 @@ debian
 ;; have openbuild-like service
 opensuse
 
-=============
-provizejo iii
-=============
-
-;; simplicity
-;; somewhat source-based
-;; server
-slackware
 ;; from ram
 porteus
 ;; from ram
+;;
 fatdog
+;;
+slacko
+
+============
+provizejo ii
+============
 
 arch ;; simplicity
 void
