@@ -1,0 +1,1 @@
+git remote add all ../dokumento.git
