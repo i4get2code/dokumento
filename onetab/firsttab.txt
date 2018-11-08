@@ -1,0 +1,124 @@
+https://askubuntu.com/questions/154180/how-to-mount-a-new-drive-on-startup#154184 | fstab - How to mount a new drive on startup - Ask Ubuntu
+https://askubuntu.com/questions/164926/how-to-make-partitions-mount-at-startup | automount - How to make partitions mount at startup? - Ask Ubuntu
+https://community.linuxmint.com/tutorial/view/1513 | Editing fstab to automount partitions at startup - Linux Mint Community
+
+https://stackoverflow.com/questions/30196825/how-to-create-a-secure-git-repository-in-the-cloud | security - How to create a secure git repository in the cloud? - Stack Overflow
+https://shuhrat.github.io/programming/git-lfs-tips-and-tricks.html | Git LFS tips and tricks
+https://github.com/git-lfs/git-lfs?utm_source=gitlfs_site&utm_medium=repo_link&utm_campaign=gitlfs | git-lfs/git-lfs: Git extension for versioning large files
+https://github.com/git-lfs/git-lfs/wiki/Tutorial | Tutorial · git-lfs/git-lfs Wiki
+https://github.com/git-lfs/git-lfs/wiki/Installation#source | Installation · git-lfs/git-lfs Wiki
+https://www.atlassian.com/git/tutorials/git-lfs | Git LFS - large file storage | Atlassian Git Tutorial
+https://github.com/git-lfs/git-lfs/issues/1759 | How to configure two or more remotes for LFS · Issue #1759 · git-lfs/git-lfs
+https://stackoverflow.com/questions/42019529/how-to-clone-pull-a-git-repository-ignoring-lfs | git lfs - How to clone/pull a git repository, ignoring LFS? - Stack Overflow
+https://developer.atlassian.com/blog/2016/04/git-lfs-12-clone-faster/ | Git LFS 1.2: Clone Faster - Atlassian Developers
+https://community.atlassian.com/t5/Sourcetree-questions/How-to-git-clone-local-LFS-enabled-repo-within-SourceTree/qaq-p/244640 | How to git clone local LFS enabled repo within Sou...
+https://github.com/git-lfs/git-lfs/issues/1152 | What is the easiest way to duplicate a local repo directory to another directory? · Issue #1152 · git-lfs/git-lfs
+https://docs.gitlab.com/ee/workflow/lfs/manage_large_binaries_with_git_lfs.html | Git LFS | GitLab
+https://jfrog.com/blog/git-lfs/ | Not Using Git LFS? You're Already Behind!
+https://unix.stackexchange.com/questions/99085/save-setxkbmap-settings | keyboard layout - Save setxkbmap settings? - Unix & Linux Stack Exchange
+https://stackoverflow.com/questions/4638874/how-to-loop-through-a-directory-recursively-to-delete-files-with-certain-extensi | bash - How to loop through a directory recursively to delete files with certain extensions - Stack Overflow
+https://www.cyberciti.biz/faq/howto-find-delete-empty-directories-files-in-unix-linux/ | Linux / Unix: Find and Delete All Empty Directories & Files - nixCraft
+https://herbstluftwm.org/tutorial.html | Tutorial - herbstluftwm
+https://unix.stackexchange.com/questions/154099/script-started-in-xinitrc-stays-in-processes | arch linux - script started in .xinitrc stays in processes - Unix & Linux Stack Exchange
+https://gist.github.com/illucent/beaf4a8c6a68bd4f5670f1c6f0c8d67e | Keyboard switches for XKB setxkbmap
+https://unix.stackexchange.com/questions/45447/other-than-alt-shift-to-switch-keyboard-layout-any-other-xorg-key-combination#45499 | linux - Other than Alt + Shift to switch keyboard layout, any other Xorg key combinations? - Unix & Linux Stack Exchange
+http://purplepwny.com/blog/binding_lua_to_c_think_twice_before_eating_that_glue.html | Binding Lua to C++: Think Twice Before Eating That Glue - Purple Pwny Studios
+https://www.linux.org.ru/forum/desktop/13430438 | Стремный Z-образный тиринг awesome wm — Desktop — Форум
+http://adereth.github.io/blog/2013/10/02/why-you-should-try-a-tiling-window-manager/ | Why you should try a tiling window manager - adereth
+https://embeddedartistry.com/blog/2017/2/28/migrating-from-c-to-c-null-vs-nullptr | Migrating from C to C++: NULL vs nullptr — Embedded Artistry
+https://softwareengineering.stackexchange.com/questions/216289/is-it-reasonable-to-null-guard-every-single-dereferenced-pointer | c++ - Is it reasonable to null guard every single dereferenced pointer? - Software Engineering Stack Exchange
+http://wambold.com/Martin/writings/null.html | Solving the C++ NULL Type Safety Problem
+https://news.ycombinator.com/item?id=7587978 | No, modern C++ is not even close to memory safe. This is my favorite meme to des... | Hacker News
+https://stackoverflow.com/questions/10603671/how-to-add-a-local-repo-and-treat-it-as-a-remote-repo | git - How to add a local repo and treat it as a remote repo - Stack Overflow
+https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely | How do I delete a Git branch both locally and remotely? - Stack Overflow
+https://help.github.com/articles/removing-a-remote/ | Removing a remote - User Documentation
+https://groups.google.com/forum/#!topic/elixir-lang-core/-ofsWXmGKDM | Exit from the iex shell – Группы Google
+https://stackoverflow.com/questions/30085376/another-way-to-exiting-iex-other-than-ctrl-c | elixir - Another way to exiting IEX other than ctrl-C - Stack Overflow
+http://blog.plataformatec.com.br/2016/03/how-to-quit-the-elixir-shell-iex/ | How to quit the Elixir shell (IEx)? « Plataformatec Blog
+http://kissanime.ru/Anime/Naruto-Kai/Episode-048?id=149558&s=rapidvideo | Naruto Kai Episode 048 - Watch Naruto Kai Episode 048 online in high quality
+https://bbs.archlinux.org/viewtopic.php?id=162052 | Openbox: setxkbmap in .xinitrc seems not to work / Applications & Desktop Environments / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=164624 | [SOLVED]~/.bash_profile with startx not working / Newbie Corner / Arch Linux Forums
+https://davidwalsh.name/delete-git-remote-branch | How to Delete a git Remote Branch
+https://code.tutsplus.com/articles/how-to-handle-exceptions-in-elixir--cms-28634 | How to Handle Exceptions in Elixir
+https://nathanhoad.net/how-to-delete-a-remote-git-tag | How to: Delete a remote Git tag - Nathan Hoad
+https://engineering.spreedly.com/blog/youre-smart-enough-for-elixir.html | You're Smart Enough for Elixir
+https://www.reddit.com/r/elixir/comments/2owfcu/is_elixir_the_right_choice_for_a_script/ | Is Elixir the right choice for a Script? : elixir
+https://www.grok-interactive.com/blog/unix-scripting-with-elixir/ | Unix Scripting with Elixir | Grok Interactive
+http://crevalle.io/elixir-for-productive-prototypes.html | Elixir for Productive Prototypes - Crevalle
+https://stackoverflow.com/questions/2106385/which-programming-languages-support-hot-code-swapping-and-or-sandboxing | erlang - Which programming languages support hot code swapping and/or sandboxing? - Stack Overflow
+https://www.reddit.com/r/gamedev/comments/4jb2vp/a_brief_look_at_embedding_the_wren_scripting/ | A brief look at embedding the Wren scripting language in your C++ game : gamedev
+http://nelari.us/post/wren-embedding-2/ | Embedding Wren in C++, part 2 · My thought repository
+http://nelari.us/post/wren-embedding-1/ | Embedding Wren in C++, part 1 · My thought repository
+https://eev.ee/blog/2016/04/30/embedding-lua-vs-python/ | Embedding Lua vs Python / fuzzy notepad
+http://www.cplusplus.com/forum/lounge/58923/ | Good scripting language for C++? - C++ Forum
+https://mightynotes.wordpress.com/2017/02/12/chaiscript-tutorial-1-introduction-to-chaiscript/ | ChaiScript Tutoral (1) – A easy to use scripting language for modern C++ – mightynotes
+https://www.gamasutra.com/blogs/ZacHills/20170406/295378/Scripting_with_C.php | Gamasutra: Zac Hills's Blog - Scripting with C++
+https://blog.molecular-matters.com/2014/05/10/using-runtime-compiled-c-code-as-a-scripting-language-under-the-hood/ | Using runtime-compiled C++ code as a scripting language: under the hood | Molecular Musings
+https://www.gamedev.net/forums/topic/669491-c-best-scripting-language/ | C++ Best Scripting Language - Forum - GameDev.net
+http://voices.canonical.com/jussi.pakkanen/2013/10/15/c-has-become-a-scripting-language/ | C++ has become a scripting language | Jussi Pakkanen's development blog
+https://www.codeproject.com/articles/11508/integrating-lua-into-c | Integrating Lua into C++ - CodeProject
+https://arne-mertz.de/2016/03/scripting-languages-c/ | Scripting Languages and C++ - Simplify C++!
+https://github.com/collections/programming-languages | Collection: Programming languages
+https://bbs.archlinux.org/viewtopic.php?id=162052 | Openbox: setxkbmap in .xinitrc seems not to work / Applications & Desktop Environments / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=164624 | [SOLVED]~/.bash_profile with startx not working / Newbie Corner / Arch Linux Forums
+https://aur.archlinux.org/packages/?O=0&SeB=nd&K=kakoune&outdated=&SB=n&SO=a&PP=50&do_Search=Go | AUR (en) - Search Criteria: kakoune
+https://www.slant.co/topics/6032/viewpoints/2/~systems-programming-languages~c | C++ - What are the best systems programming languages? - Slant
+https://www.google.com/search?hl=en&biw=956&bih=555&ei=JPSrW-GuD4X5qwHYsrLQAw&q=c%2B%2B+zapcc&oq=c%2B%2B+zapcc&gs_l=psy-ab.3..0i22i30k1.92720.93572.0.93711.5.5.0.0.0.0.114.526.2j3.5.0....0...1..64.psy-ab..0.5.523...0j0i67k1.0.chbm9DZB1wY | c++ zapcc - Google Search
+https://www.infoworld.com/article/3282421/c-plus-plus/zapcc-high-speed-c-compiler-now-open-source.html | Zapcc high-speed C++ compiler now open source | InfoWorld
+https://www.google.com/search?hl=en&ei=PParW6hk7-yuBPnti-AL&q=refacotring+elixir+pleasure&oq=refacotring+elixir+pleasure&gs_l=psy-ab.3..33i160k1l2.13274186.13279621.0.13279700.27.25.0.0.0.0.274.2696.2j17j2.21.0....0...1.1.64.psy-ab..6.21.2684...0j0i67k1j0i10k1j0i13k1j0i13i30k1j0i8i13i30k1.0.s9CNHFk1LcA | refacotring elixir pleasure - Google Search
+https://github.com/search?o=desc&q=language%3AC%2B%2B+editor&s=stars&type=Repositories | Search · language:C++ editor
+https://github.com/search?o=desc&q=language%3AC%2B%2B+terminal&s=stars&type=Repositories | Search · language:C++ terminal
+https://duckduckgo.com/?q=c%2B%2B+library+language+scripting+language&t=ffab&ia=qa | c++ library language scripting language at DuckDuckGo
+https://duckduckgo.com/?q=c%2B%2B+monads&t=ffab&ia=web | c++ monads at DuckDuckGo
+https://github.com/clangen/musikcube | clangen/musikcube: a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
+https://github.com/Dobiasd/FunctionalPlus | Dobiasd/FunctionalPlus: Functional Programming Library for C++. Write concise and readable C++ code.
+https://github.com/BartoszMilewski/Okasaki | BartoszMilewski/Okasaki: Functional data structures in C++
+https://github.com/awgn/cat | awgn/cat: C++14 functional library
+https://musikcube.com/ | musikcube
+http://kakoune.org/ | Kakoune - Official site
+http://kakoune.org/plugins.html | Kakoune - Plugins
+https://github.com/mawww/kakoune/wiki | Home · mawww/kakoune Wiki
+http://kakoune.org/why-kakoune/why-kakoune.html | Why Kakoune — The quest for a better code editor
+https://github.com/munificent/wren | munificent/wren: The Wren Programming Language
+http://wren.io/embedding/ | Embedding – Wren
+https://github.com/marcobambini/gravity | marcobambini/gravity: Gravity Programming Language
+https://github.com/search?p=3&q=language%3AElixir+stars%3A%3E1&type=Repositories | Search · language:Elixir stars:>1
+https://github.com/search?utf8=%E2%9C%93&q=language%3AElixir+monads&type= | Search · language:Elixir monads
+https://marcobambini.github.io/gravity/#/loop | Loops - Gravity Documentation
+
+https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm | C++ Pointers
+https://medium.com/@lorenzo_sinisi/what-i-have-learned-working-1-year-with-full-time-using-elixir-51efd4c1f66 | What I have learned working 1 year full-time using Elixir
+http://www.petecorey.com/blog/2017/08/07/what-if-elixir-were-homoiconic/ | Pete Corey - What if Elixir were Homoiconic?
+https://news.ycombinator.com/item?id=13802787 | Gravity: a new programming language and VM written in C | Hacker News
+https://www.reddit.com/r/rust/comments/6nexpo/variadic_generics_and_higherkinded_types_when_to/ | Variadic generics and higher-kinded types - when to expect? : rust
+https://stackoverflow.com/questions/2565097/higher-kinded-types-with-c#2565191 | templates - Higher-kinded Types with C++ - Stack Overflow
+https://www.reddit.com/r/cpp/comments/8bouu7/why_is_c_so_hated/ | Why is C++ so hated? : cpp
+https://isocpp.org/wiki/faq/mixing-c-and-cpp | How to mix C and C++, C++ FAQ
+https://www.quora.com/Is-it-bad-that-I-use-C++-like-an-enhanced-C | Is it bad that I use C++ like an enhanced C? - Quora
+https://www.reddit.com/r/cpp/comments/8xy5qt/is_c_a_really_terrible_language/ | Is C++ a 'Really Terrible Language'? : cpp
+https://stackoverflow.com/questions/4295681/evil-samples-of-subtly-broken-c-code | Evil samples of subtly broken C++ code - Stack Overflow
+http://www.cplusplus.com/doc/tutorial/ | C++ Language - C++ Tutorials
+https://www.learncpp.com/ | Learn C++
+https://news.ycombinator.com/item?id=17373545 | Gravity – An embeddable programming language | Hacker News
+https://unix.stackexchange.com/questions/271004/arch-cannot-make-setxkbmap-persistant | keyboard layout - Arch: cannot make setxkbmap persistant - Unix & Linux Stack Exchange
+https://news.ycombinator.com/item?id=13583947 | Swift does have garbage collection! It uses reference counting, and AFAIK it doe... | Hacker News
+https://www.quora.com/Why-doesnt-Apple-Swift-adopt-the-memory-management-method-of-garbage-collection-like-Java-uses | Why doesn't Apple Swift adopt the memory management method of garbage collection like Java uses? - Quora
+https://news.ycombinator.com/item?id=12033225 | ARC is a form of GC, but the definition doesn't matter. Why do you say this is a... | Hacker News
+https://medium.com/computed-comparisons/garbage-collection-vs-automatic-reference-counting-a420bd4c7c81 | - — — — — Garbage Collection vs Automatic Reference Counting — — — — -
+https://softwareengineering.stackexchange.com/questions/285333/how-does-garbage-collection-compare-to-reference-counting | swift language - How does garbage collection compare to reference counting? - Software Engineering Stack Exchange
+https://www.quora.com/How-do-reference-counting-and-garbage-collection-compare | How do reference counting and garbage collection compare? - Quora
+https://softwareengineering.stackexchange.com/questions/208182/why-are-reference-counting-smart-pointers-so-popular | c++ - Why are reference-counting smart pointers so popular? - Software Engineering Stack Exchange
+https://stackoverflow.com/questions/4380608/c-as-a-high-level-language | stl - C++ as a high-level language? - Stack Overflow
+https://www.reddit.com/r/cpp/comments/5kvvmj/c17_why_its_better_than_you_might_think/ | C++17 - Why it's better than you might think : cpp
+http://braythwayt.com/2015/01/29/how-i-write-books-with-github-and-leanpub.html | How I Write Books with GitHub and Leanpub
+https://stackoverflow.com/questions/24493071/how-to-reduce-git-repo-size-on-bitbucket | repository - How to reduce git repo size on Bitbucket? - Stack Overflow
+https://gist.github.com/CMCDragonkai/a5638f50c87d49f815b8 | Rust/Haskell: Higher-Kinded Types (HKT)
+https://stackoverflow.com/questions/7298598/what-is-the-difference-between-git-clone-and-checkout | command - What is the difference between git clone and checkout? - Stack Overflow
+https://stackoverflow.com/questions/10364429/how-to-commit-to-remote-git-repository | git push - How to commit to remote git repository - Stack Overflow
+https://stackoverflow.com/questions/10603671/how-to-add-a-local-repo-and-treat-it-as-a-remote-repo | git - How to add a local repo and treat it as a remote repo - Stack Overflow
+https://www.atlassian.com/git/tutorials/git-lfs | Git LFS - large file storage | Atlassian Git Tutorial
+https://stackoverflow.com/questions/4169940/version-control-for-sound-video-and-other-binary-files | git - Version control for sound, video, and other binary files - Stack Overflow
+https://askubuntu.com/questions/154180/how-to-mount-a-new-drive-on-startup | fstab - How to mount a new drive on startup - Ask Ubuntu
+https://unix.stackexchange.com/questions/658/linux-how-can-i-view-all-uuids-for-all-available-disks-on-my-system | storage - linux: How can I view all UUIDs for all available disks on my system? - Unix & Linux Stack Exchange
+https://www.techonthenet.com/linux/commands/chown.php | Linux: chown command
+https://askubuntu.com/questions/124246/what-command-changes-the-group-setting-for-a-directory | permissions - What command changes the Group setting for a directory? - Ask Ubuntu
