@@ -1,1 +1,1 @@
-git init --bare ../dokumento.git
+git init --bare ../gits/dokumento.git

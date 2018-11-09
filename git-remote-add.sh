@@ -1,3 +1,3 @@
-git remote add on ../dokumento.git
-git remote add off ../dokumento.git
+git remote add on ../gits/dokumento.git
+git remote add off ../gits/dokumento.git
 
