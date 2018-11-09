@@ -1,0 +1,35 @@
+https://www.thegeekstuff.com/2010/09/rsync-command-examples/ | How to Backup Linux? 15 rsync Command Examples
+https://serverfault.com/questions/219013/showing-total-progress-in-rsync-is-it-possible | linux - Showing total progress in rsync: is it possible? - Server Fault
+https://www.smashinglab.com/rsync-remote-sync-11-practical-examples-rsync-command-linux/ | Rsync (Remote Sync): 11 Practical Examples of Rsync Command in Linux - Smashing Lab
+https://linoxide.com/linux-how-to/linux-rsync-examples-exclude-files-directories/ | 10 Linux rsync Examples to Exclude Files/Directories
+http://dasunhegoda.com/rsync-practical-examples/727/ | rsync with Practical Examples
+https://www.techonthenet.com/linux/commands/rsync.php | Linux: rsync command
+https://unix.stackexchange.com/questions/57305/rsync-compare-directories | directory - rsync compare directories? - Unix & Linux Stack Exchange
+https://serverfault.com/questions/618735/can-i-use-rsync-to-create-a-list-of-only-changed-files | bash - Can I use rsync to create a list of only changed files? - Server Fault
+http://web.archive.org/web/20160904174444/http://andreafrancia.it/2010/03/understanding-the-output-of-rsync-itemize-changes.html | web.archive.org/web/20160904174444/http://andreafrancia.it/2010/03/understanding-the-output-of-rsync-itemize-changes.html
+https://serverfault.com/questions/211005/rsync-difference-between-checksum-and-ignore-times-options | Rsync difference between --checksum and --ignore-times options - Server Fault
+https://serverfault.com/questions/219013/showing-total-progress-in-rsync-is-it-possible#441724 | linux - Showing total progress in rsync: is it possible? - Server Fault
+https://www.computerhope.com/unix/rsync.htm | Linux rsync command help and examples
+https://opensource.com/article/17/1/rsync-backup-linux | Using rsync to back up your Linux system | Opensource.com
+https://www.linux.com/news/back-expert-rsync | Back up like an expert with rsync | Linux.com | The source for Linux information
+https://www.howtogeek.com/135533/how-to-use-rsync-to-backup-your-data-on-linux/ | How to Use rsync to Backup Your Data on Linux
+https://www.linuxquestions.org/questions/linux-software-2/about-rsync-progress-4175450577/ | [SOLVED] About rsync --progress
+https://www.unixtutorial.org/tracking-the-progress-of-rsync-transfers/ | Tracking the Progress of Rsync Transfers
+https://www.thegeekstuff.com/2010/09/rsync-command-examples | How to Backup Linux? 15 rsync Command Examples
+https://www.bobulous.org.uk/misc/rsync-backup.html | An rsync backup script in Linux
+https://www.poftut.com/rsync-command-tutorial-examples/ | Rsync Command Tutorial With Examples - POFTUT
+https://www.ibm.com/developerworks/aix/library/au-spunix_rsync/ | Speaking UNIX: Advanced applications of rsync
+https://www.lifewire.com/copying-directories-with-rsync-3971105 | How to Use rsync to Copy Linux Folders and Files
+https://calomel.org/rsync_tips.html | Rsync Examples, SSH, Backup @ Calomel.org
+https://www.liquidweb.com/kb/using-rsync-to-transfer-and-synchronize-local-and-remote-systems/ | Using rsync to Transfer and Synchronize Local and Remote Systems | Liquid Web Knowledge Base
+https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/ | Rsync (Remote Sync): 10 Practical Examples of Rsync Command in Linux
+https://www.fastwebhost.in/blog/13-rsync-command-examples-on-linux/ | 13 Rsync Command Examples on Linux
+https://www.thegeekstuff.com/2010/09/rsync-command-examples | How to Backup Linux? 15 rsync Command Examples
+https://linuxtechlab.com/start-with-rsync-command-8-rsync-examples/ | Where to start with Rsync command : 8 Rsync Examples - LinuxTechLab
+https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps | How To Use Rsync to Sync Local and Remote Directories on a VPS | DigitalOcean
+https://www.comentum.com/rsync.html | rsync examples - backing up using rsync command explained
+https://www.computerhope.com/unix/rsync.htm | Linux rsync command help and examples
+https://www.linuxnix.com/10-rsync-commands-examples-linuxunix/ | 12 rsync commands examples in Linux/Unix - The Linux Juggernaut
+https://rsync.samba.org/examples.html | rsync examples
+https://help.ubuntu.com/community/rsync | rsync - Community Help Wiki
+https://wiki.archlinux.org/index.php/rsync | rsync - ArchWiki
