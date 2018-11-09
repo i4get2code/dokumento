@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/5785549/able-to-push-to-all-git-remotes-with-the-one-command | Able to push to all git remotes with the one command? - Stack Overflow
+https://howto.lintel.in/git-how-to-push-code-to-multiple-remotes-simultaneously/ | GIT - How to push code to multiple remotes simultaneously - Lintel Technologies Blog
 https://askubuntu.com/questions/154180/how-to-mount-a-new-drive-on-startup#154184 | fstab - How to mount a new drive on startup - Ask Ubuntu
 https://askubuntu.com/questions/164926/how-to-make-partitions-mount-at-startup | automount - How to make partitions mount at startup? - Ask Ubuntu
 https://community.linuxmint.com/tutorial/view/1513 | Editing fstab to automount partitions at startup - Linux Mint Community
@@ -35,7 +37,6 @@ https://help.github.com/articles/removing-a-remote/ | Removing a remote - User D
 https://groups.google.com/forum/#!topic/elixir-lang-core/-ofsWXmGKDM | Exit from the iex shell – Группы Google
 https://stackoverflow.com/questions/30085376/another-way-to-exiting-iex-other-than-ctrl-c | elixir - Another way to exiting IEX other than ctrl-C - Stack Overflow
 http://blog.plataformatec.com.br/2016/03/how-to-quit-the-elixir-shell-iex/ | How to quit the Elixir shell (IEx)? « Plataformatec Blog
-http://kissanime.ru/Anime/Naruto-Kai/Episode-048?id=149558&s=rapidvideo | Naruto Kai Episode 048 - Watch Naruto Kai Episode 048 online in high quality
 https://bbs.archlinux.org/viewtopic.php?id=162052 | Openbox: setxkbmap in .xinitrc seems not to work / Applications & Desktop Environments / Arch Linux Forums
 https://bbs.archlinux.org/viewtopic.php?id=164624 | [SOLVED]~/.bash_profile with startx not working / Newbie Corner / Arch Linux Forums
 https://davidwalsh.name/delete-git-remote-branch | How to Delete a git Remote Branch
@@ -47,8 +48,6 @@ https://www.grok-interactive.com/blog/unix-scripting-with-elixir/ | Unix Scripti
 http://crevalle.io/elixir-for-productive-prototypes.html | Elixir for Productive Prototypes - Crevalle
 https://stackoverflow.com/questions/2106385/which-programming-languages-support-hot-code-swapping-and-or-sandboxing | erlang - Which programming languages support hot code swapping and/or sandboxing? - Stack Overflow
 https://www.reddit.com/r/gamedev/comments/4jb2vp/a_brief_look_at_embedding_the_wren_scripting/ | A brief look at embedding the Wren scripting language in your C++ game : gamedev
-http://nelari.us/post/wren-embedding-2/ | Embedding Wren in C++, part 2 · My thought repository
-http://nelari.us/post/wren-embedding-1/ | Embedding Wren in C++, part 1 · My thought repository
 https://eev.ee/blog/2016/04/30/embedding-lua-vs-python/ | Embedding Lua vs Python / fuzzy notepad
 http://www.cplusplus.com/forum/lounge/58923/ | Good scripting language for C++? - C++ Forum
 https://mightynotes.wordpress.com/2017/02/12/chaiscript-tutorial-1-introduction-to-chaiscript/ | ChaiScript Tutoral (1) – A easy to use scripting language for modern C++ – mightynotes
@@ -61,15 +60,12 @@ https://arne-mertz.de/2016/03/scripting-languages-c/ | Scripting Languages and C
 https://github.com/collections/programming-languages | Collection: Programming languages
 https://bbs.archlinux.org/viewtopic.php?id=162052 | Openbox: setxkbmap in .xinitrc seems not to work / Applications & Desktop Environments / Arch Linux Forums
 https://bbs.archlinux.org/viewtopic.php?id=164624 | [SOLVED]~/.bash_profile with startx not working / Newbie Corner / Arch Linux Forums
-https://aur.archlinux.org/packages/?O=0&SeB=nd&K=kakoune&outdated=&SB=n&SO=a&PP=50&do_Search=Go | AUR (en) - Search Criteria: kakoune
 https://www.slant.co/topics/6032/viewpoints/2/~systems-programming-languages~c | C++ - What are the best systems programming languages? - Slant
 https://www.google.com/search?hl=en&biw=956&bih=555&ei=JPSrW-GuD4X5qwHYsrLQAw&q=c%2B%2B+zapcc&oq=c%2B%2B+zapcc&gs_l=psy-ab.3..0i22i30k1.92720.93572.0.93711.5.5.0.0.0.0.114.526.2j3.5.0....0...1..64.psy-ab..0.5.523...0j0i67k1.0.chbm9DZB1wY | c++ zapcc - Google Search
 https://www.infoworld.com/article/3282421/c-plus-plus/zapcc-high-speed-c-compiler-now-open-source.html | Zapcc high-speed C++ compiler now open source | InfoWorld
 https://www.google.com/search?hl=en&ei=PParW6hk7-yuBPnti-AL&q=refacotring+elixir+pleasure&oq=refacotring+elixir+pleasure&gs_l=psy-ab.3..33i160k1l2.13274186.13279621.0.13279700.27.25.0.0.0.0.274.2696.2j17j2.21.0....0...1.1.64.psy-ab..6.21.2684...0j0i67k1j0i10k1j0i13k1j0i13i30k1j0i8i13i30k1.0.s9CNHFk1LcA | refacotring elixir pleasure - Google Search
 https://github.com/search?o=desc&q=language%3AC%2B%2B+editor&s=stars&type=Repositories | Search · language:C++ editor
 https://github.com/search?o=desc&q=language%3AC%2B%2B+terminal&s=stars&type=Repositories | Search · language:C++ terminal
-https://duckduckgo.com/?q=c%2B%2B+library+language+scripting+language&t=ffab&ia=qa | c++ library language scripting language at DuckDuckGo
-https://duckduckgo.com/?q=c%2B%2B+monads&t=ffab&ia=web | c++ monads at DuckDuckGo
 https://github.com/clangen/musikcube | clangen/musikcube: a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 https://github.com/Dobiasd/FunctionalPlus | Dobiasd/FunctionalPlus: Functional Programming Library for C++. Write concise and readable C++ code.
 https://github.com/BartoszMilewski/Okasaki | BartoszMilewski/Okasaki: Functional data structures in C++
@@ -89,7 +85,6 @@ https://marcobambini.github.io/gravity/#/loop | Loops - Gravity Documentation
 https://www.tutorialspoint.com/cplusplus/cpp_pointers.htm | C++ Pointers
 https://medium.com/@lorenzo_sinisi/what-i-have-learned-working-1-year-with-full-time-using-elixir-51efd4c1f66 | What I have learned working 1 year full-time using Elixir
 http://www.petecorey.com/blog/2017/08/07/what-if-elixir-were-homoiconic/ | Pete Corey - What if Elixir were Homoiconic?
-https://news.ycombinator.com/item?id=13802787 | Gravity: a new programming language and VM written in C | Hacker News
 https://www.reddit.com/r/rust/comments/6nexpo/variadic_generics_and_higherkinded_types_when_to/ | Variadic generics and higher-kinded types - when to expect? : rust
 https://stackoverflow.com/questions/2565097/higher-kinded-types-with-c#2565191 | templates - Higher-kinded Types with C++ - Stack Overflow
 https://www.reddit.com/r/cpp/comments/8bouu7/why_is_c_so_hated/ | Why is C++ so hated? : cpp
@@ -99,7 +94,6 @@ https://www.reddit.com/r/cpp/comments/8xy5qt/is_c_a_really_terrible_language/ | 
 https://stackoverflow.com/questions/4295681/evil-samples-of-subtly-broken-c-code | Evil samples of subtly broken C++ code - Stack Overflow
 http://www.cplusplus.com/doc/tutorial/ | C++ Language - C++ Tutorials
 https://www.learncpp.com/ | Learn C++
-https://news.ycombinator.com/item?id=17373545 | Gravity – An embeddable programming language | Hacker News
 https://unix.stackexchange.com/questions/271004/arch-cannot-make-setxkbmap-persistant | keyboard layout - Arch: cannot make setxkbmap persistant - Unix & Linux Stack Exchange
 https://news.ycombinator.com/item?id=13583947 | Swift does have garbage collection! It uses reference counting, and AFAIK it doe... | Hacker News
 https://www.quora.com/Why-doesnt-Apple-Swift-adopt-the-memory-management-method-of-garbage-collection-like-Java-uses | Why doesn't Apple Swift adopt the memory management method of garbage collection like Java uses? - Quora

@@ -5,5 +5,5 @@ S="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $S # necessary
 
 if [ -d ../dokumento.git ]; then
-    git push all master
+    git push on master
 fi
