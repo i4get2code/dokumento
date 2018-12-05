@@ -1,17 +1,20 @@
-;; has stable branch
-;; many architectures
-gentoo
-;;
-;; gentoo lore
-funtoo
-sabayon
-redcore
-calculate
-
 ;; simplicity
-;; somewhat source-based
+arch
+;;; arch-based
+;; full rolling
+antergos
+;; semi-rolling
+chakra 
+;; stable rolling release.
+;; holds updates back until bugs are fixed and everything works
+manjaro
+
+;;; simplicity
 ;; server
 slackware
+; from ram
+porteus
+fatdog
 
 ;; sever maintainability
 ;; expression syntax still.
@@ -44,27 +47,24 @@ debian
 ;; have openbuild-like service
 opensuse
 
-;; from ram
-porteus
-;; from ram
+;; some packages need LOTS of ram to compile.
+;; so it is an expensive distro.
+;; you have to have a computer with lots of ram.
+;; and processor to cope with compile
 ;;
-fatdog
-;;
-slacko
+;; has stable branch
+;; many architectures
+gentoo
+; basically gentoo 
+funtoo
+redcore
+calculate
+; gentoo-based
+sabayon
 
 ============
 provizejo ii
 ============
-
-arch ;; simplicity
-void
-;; arch-based
-;;
-antergos ;; full rolling
-chakra ;; semi-rolling
-;; stable rolling release.
-;; holds updates back until bugs are fixed and everything works
-manjaro
 
 fedora
 ;; stable
