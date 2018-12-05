@@ -4,6 +4,13 @@
 S="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $S # necessary
 
-if [ -d ../gits/dokumento.git ]; then
+# N means name / nomo
+# D means directory
+# P means path
+N="$(basename $(pwd))"
+D="$N.git"
+P="../gits"
+
+if [ -d $P/$D ]; then
     git push on master
 fi

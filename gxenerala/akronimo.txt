@@ -1,0 +1,22 @@
+a means apartenajxa
+b means marko suBen
+d means defalajxejo
+f means fonto
+g means galimatio / garbage
+i means indekso / index
+k means kategorio
+l means ligo
+m means multibibliotekoj / multilib 
+p means marko suPren
+s means starigi / setup
+t means temo / theme
+
+===
+old
+===
+
+b means binara
+p means privata / private
+
+md means markdown
+mu means markup

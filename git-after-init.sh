@@ -3,5 +3,5 @@
 S="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $S # necessary
 
-git remote rm off
-git remote rm on
+./git-init-bare.sh
+./git-remote-add.sh
