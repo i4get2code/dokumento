@@ -15,13 +15,16 @@ N="online"
 echo $R
 if [[ $R == *"$O"* ]]; then
     git remote rm origin
+    echo "$O removed"
 fi
 
 if [[ $R == *"$F"* ]]; then
     git remote rm offline
+    echo "$F removed"
 fi
 
 if [[ $R == *"$N"* ]]; then
     git remote rm online
+    echo "$N removed"
 fi
 

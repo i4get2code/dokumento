@@ -1,14 +1,14 @@
 # exec your command from whatever place
-# S signifas source
+# S signifas salto /source
 S="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $S # necessary
 
-# N signifas name / nomo
+# N signifas nomo / name
 # D signifas directory
 # P signifas path
 # F signifas offline
-N="$(basename $(pwd))"
-D="$N.git"
+B="$(basename $(pwd))"
+D="$B.git"
 P="../gits"
 F="offline"
 

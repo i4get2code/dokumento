@@ -1,13 +1,13 @@
 # exec your command from whatever place
-# S means source / salto
+# S signifas source / salto
 S="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $S # necessary
 
-# N means name / nomo
-# D means directory
-# P means path
-N="$(basename $(pwd))"
-D="$N.git"
+# N signifas nomo / name
+# D signifas directory
+# P signifas path
+B="$(basename $(pwd))"
+D="$B.git"
 P="../gits"
 
 if [ ! -d $P/$D ]; then
