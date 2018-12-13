@@ -9,30 +9,25 @@ chakra
 ;; holds updates back until bugs are fixed and everything works
 manjaro
 
-;;; simplicity
-;; server
-slackware
-; from ram
-porteus
-fatdog
-
 ;; sever maintainability
 ;; expression syntax still.
 ;; should be updated from time to time
-;; however, debians switch to systemd.
+;; however, debian's switch to systemd.
 ;; shows that debian's configs should be updated too
-;; will replaces all binary based systems.
+;; will replace all binary based systems.
 ;; like arch, deb, rpm
 nixos
 guix
 
-;; from ram
+void
+
+;;; from ram
 ;; server primarily
 ;; desktop not really
 alpine
-
-;; many architectures
-netbsd
+;;
+;; from ram
+tinycore
 
 ===========
 provizejo i
@@ -41,11 +36,32 @@ provizejo i
 ;; unique
 gobo
 
+============
+provizejo ii
+============
+
+;; many architectures
+netbsd
+
+;; semi-rolling
+bedrock
+
+nutyx
+
+=============
+provizejo iii
+=============
+
 ;; 1c
 debian
 
-;; have openbuild-like service
-opensuse
+fedora
+;; stable
+centos
+
+============
+provizejo iv
+============
 
 ;; some packages need LOTS of ram to compile.
 ;; so it is an expensive distro.
@@ -55,27 +71,25 @@ opensuse
 ;; has stable branch
 ;; many architectures
 gentoo
-; basically gentoo 
+;;; basically gentoo 
 funtoo
 redcore
 calculate
-; gentoo-based
+;; gentoo-based
 sabayon
 
-============
-provizejo ii
-============
+;; simplicity
+;; server
+slackware
+;;; from ram
+porteus
+fatdog
 
-fedora
-;; stable
-centos
+;; have openbuild-like service
+opensuse
 
 ;; semi-rolling
-;;
-bedrock
 pclinuxos
-
-nutyx
 
 frugalware ;; simplicity
 

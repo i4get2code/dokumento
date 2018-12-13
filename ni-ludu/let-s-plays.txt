@@ -2,9 +2,6 @@
 watchable
 =========
 
-terratech
-stellaris
-
 crosscode
 wasteland 2
 shadowrun
@@ -114,6 +111,9 @@ shadow of the colossus
 =========
 provizejo
 =========
+
+terratech
+stellaris
 
 stardew valley
 yonder

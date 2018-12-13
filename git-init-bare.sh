@@ -10,4 +10,9 @@ N="$(basename $(pwd))"
 D="$N.git"
 P="../gits"
 
-git init --bare $P/$D
+if [ ! -d $P/$D ]; then
+    git init --bare $P/$D
+else
+    echo "$D already created"
+fi
+

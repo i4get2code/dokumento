@@ -1,1 +1,0 @@
-git remote rm origin

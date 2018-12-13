@@ -1,22 +1,29 @@
-a means apartenajxa
-b means marko suBen
-d means defalajxejo
-f means fonto
-g means galimatio / garbage
-i means indekso / index
-k means kategorio
-l means ligo
-m means multibibliotekoj / multilib 
-p means marko suPren
-s means starigi / setup
-t means temo / theme
+a signifas apartenajxa
+b signifas marko suBen | markdown
+c signifas cxefa
+d signifas defalajxejo
+e signifas eko
+f signifas fonto
+g signifas galimatio | garbage
+i signifas informajxo | information
+k signifas kategorio
+l signifas ligo | links ++ licenco | license
+m signifas multibibliotekoj | multilib
+n signifas nepublika | not public
+o signifas ordota | order
+p signifas marko suPren | markup
+r signifas referenco | reference
+s signifas starigi | setup
+t signifas temo | theme
+v signifas variado | variable
 
-===
-old
-===
+====
+alta
+====
 
-b means binara
-p means privata / private
+b signifas binara
+p signifas privata | private
+i signifas indekso | index
 
-md means markdown
-mu means markup
+md signifas markdown
+mu signifas markup
