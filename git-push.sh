@@ -1,15 +1,17 @@
 # exec your command from whatever place
-# S means source
+# S signifas source
 S="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $S # necessary
 
-# N means name / nomo
-# D means directory
-# P means path
+# N signifas name / nomo
+# D signifas directory
+# P signifas path
+# F signifas offline
 N="$(basename $(pwd))"
 D="$N.git"
 P="../gits"
+F="offline"
 
 if [ -d $P/$D ]; then
-    git push on master
+    git push $F master
 fi
