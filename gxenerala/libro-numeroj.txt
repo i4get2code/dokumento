@@ -1,0 +1,17 @@
+NNNN - jaro
+
+N-NN:
+N - eldono
+number means priority of the book
+NN - versio
+number means actual edition
+
+N - humano
+authors in right order (not alphabetic)
+number means the place in the row
+
+N-N - noto kaj deveno
+number means priority
+
+noto: (ne)notita, (no)tita
+deveno: (or)iginita/origina, (fo)rmatita

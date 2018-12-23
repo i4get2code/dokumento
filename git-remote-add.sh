@@ -10,7 +10,7 @@ cd $S # necessary
 # N signifas online
 B="$(basename $(pwd))"
 D="$B.git"
-P="../gits"
+P="../synclone/gits"
 F="offline"
 N="online"
 

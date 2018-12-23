@@ -27,4 +27,3 @@ if [[ $R == *"$N"* ]]; then
     git remote rm online
     echo "$N removed"
 fi
-

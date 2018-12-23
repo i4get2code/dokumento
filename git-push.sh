@@ -9,7 +9,7 @@ cd $S # necessary
 # F signifas offline
 B="$(basename $(pwd))"
 D="$B.git"
-P="../gits"
+P="../synclone/gits"
 F="offline"
 
 if [ -d $P/$D ]; then

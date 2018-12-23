@@ -1,14 +1,3 @@
-;; simplicity
-arch
-;;; arch-based
-;; full rolling
-antergos
-;; semi-rolling
-chakra 
-;; stable rolling release.
-;; holds updates back until bugs are fixed and everything works
-manjaro
-
 ;; sever maintainability
 ;; expression syntax still.
 ;; should be updated from time to time
@@ -19,7 +8,21 @@ manjaro
 nixos
 guix
 
-void
+;; have openbuild-like service
+;; zypper based on libsolv
+opensuse
+;;
+;; great spin-offs
+gecko
+;; snin-offs asleep
+korora
+chapeau
+
+;; dnf based on libsolv
+fedora
+;;
+;; great spin-offs
+qubos
 
 ;;; from ram
 ;; server primarily
@@ -33,6 +36,11 @@ tinycore
 provizejo i
 ===========
 
+;; semi-rolling
+bedrock
+
+nutyx
+
 ;; unique
 gobo
 
@@ -43,25 +51,40 @@ provizejo ii
 ;; many architectures
 netbsd
 
-;; semi-rolling
-bedrock
+;; 1c
+debian
 
-nutyx
+;; stable
+centos
 
 =============
 provizejo iii
 =============
 
-;; 1c
-debian
+;; ppa and stable branches
+;; bad dependency resolution (apt, aptitude)
+kubuntu
+lubuntu
+xubuntu
+ubuntu
 
-fedora
-;; stable
-centos
+;; semi-rolling
+pclinuxos
 
 ============
 provizejo iv
 ============
+
+===========
+provizejo v
+===========
+
+;; simplicity
+;; server
+slackware
+;;; from ram
+porteus
+fatdog
 
 ;; some packages need LOTS of ram to compile.
 ;; so it is an expensive distro.
@@ -79,28 +102,18 @@ calculate
 sabayon
 
 ;; simplicity
-;; server
-slackware
-;;; from ram
-porteus
-fatdog
-
-;; have openbuild-like service
-opensuse
-
+arch
+;;; arch-based
+;; full rolling
+antergos
 ;; semi-rolling
-pclinuxos
+chakra 
+;; stable rolling release.
+;; holds updates back until bugs are fixed and everything works
+manjaro
+
+void
 
 frugalware ;; simplicity
 
-;; ppa and stable branches
-kubuntu
-ubuntu
 
-;; great spin-offs
-qubos ;; fedora
-gecko ;; opesunse
-
-;; spin-offs asleep
-korora ;; fedora
-chapeau ;; fedora

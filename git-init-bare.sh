@@ -8,11 +8,10 @@ cd $S # necessary
 # P signifas path
 B="$(basename $(pwd))"
 D="$B.git"
-P="../gits"
+P="../synclone/gits"
 
 if [ ! -d $P/$D ]; then
     git init --bare $P/$D
 else
     echo "$D already created"
 fi
-
